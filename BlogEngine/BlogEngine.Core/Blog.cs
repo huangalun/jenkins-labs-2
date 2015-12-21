@@ -13,7 +13,7 @@ using BlogEngine.Core.Providers.CacheProvider;
 namespace BlogEngine.Core
 {
     /// <summary>
-    /// Represents a blog instance.
+    /// Represents a blog instance. 2
     /// </summary>
     public class Blog : BusinessBase<Blog, Guid>, IComparable<Blog>
     {
